@@ -15,7 +15,7 @@ Won	| Opponent	| Table Pos	| Local |	Goals For	| Goals Against	| Manager	| Keylo
 1	|Rayo	|18	|0	|3	|2	|Zidane	|GK0	|	|DF0	|	|DF0	|DF0	|	|DF0	|	|	|MD0	|MD0	|FW1	|MD0	|MD1	|	|FW1	|FW0	|	|FW0	|FW0	|	|	
 
 - Won: If Real Madrid won the match (doesn`t count draws)
-- Opponent: The oponent team
+- Opponent: The opponent team
 - Table Pos: Position of the opponent team in the classification table at the end of the season (2015-2016)
 - Local:	Whether Real Madrid played at home or away
 - Goals For: Goals scored by Real Madrid	
