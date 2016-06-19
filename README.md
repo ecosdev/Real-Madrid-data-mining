@@ -32,5 +32,3 @@ The position of the player is defined as follows:
 * 1 Substitute
 
 The database was taken and adapted from: http://resultados.as.com/resultados/futbol/primera/2015_2016/calendario
-
-## ANALYSIS
